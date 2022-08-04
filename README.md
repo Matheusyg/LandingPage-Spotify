@@ -4,7 +4,7 @@
 
 # Funcionalidades
 
-- LadingPage
+- LandingPage
 
 # Tecnologias Usadas
 
